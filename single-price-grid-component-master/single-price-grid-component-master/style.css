@@ -1,3 +1,5 @@
+@import()
+
 :root{
 	/*primary-color*/
 	--Cyan:hsl(179, 62%, 43%);
@@ -16,7 +18,7 @@ body{
 	justify-content: center;
 	align-content: center;
 	background: var(--LightGray);
-	font-family: Helvetica;
+	font-family: 'Karla', sans-serif;
 	min-height: 100vh;
 	margin:0;
 	padding:20px;
